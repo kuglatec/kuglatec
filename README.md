@@ -2,4 +2,4 @@
 if you are interested, you may take a look at my projects and feel free to ask questions
 
 # My skills
-[![My Skills](https://skillicons.dev/icons?i=python,django,c,linux,arduino,blender,discord,nano)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,c,linux,arduino,blender,discord,bash,vscode)](https://skillicons.dev)
