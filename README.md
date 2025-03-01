@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?kuglatec&base=1000)
+![](https://komarev.com/ghpvc/?username=kuglatec&base=1000)
